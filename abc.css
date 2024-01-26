@@ -1,7 +1,6 @@
-html{
-    user-select:none;
-}
+
 body{
+    -webkit-tap-highlight-color: transparent;
     margin:0px;
     padding:0px;
 }
